@@ -52,11 +52,12 @@ nav ul li {
   box-shadow: 5px 5px 10px black;
 }
 
+
 .bottom {
   position: sticky;
   bottom: 0;
   height: 130px;
-  background-color: black;
+  background-color: #121212;
   color: white;
   display: flex;
   justify-content: center;
@@ -84,12 +85,12 @@ nav ul li {
   height: 50px;
   display: flex;
   background-color: white;
-
+  padding: 2px;
   color: black;
-  margin: 12px 0;
+  margin: 12px 5px;
   justify-content: space-between;
   align-items: center;
-  border-radius: 34px;
+  border-radius: 15px;
 }
 
 .songItem img {
