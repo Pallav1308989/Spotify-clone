@@ -49,6 +49,7 @@ nav ul li {
   /* border-radius: 12px; */
   padding: 34px;
   background-image: url("bg.jpg");
+  box-shadow: 5px 5px 10px black;
 }
 
 .bottom {
